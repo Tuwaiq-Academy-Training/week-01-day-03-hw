@@ -1,0 +1,21 @@
+# واجبات اليوم الثالث
+
+
+
+# الواجب الاول
+
+Create method called " primeNumber  " that takes number and check if it's prime or not
+
+- If the number is prime it should return " Prime number " otherwise is should return " Not prime number "
+
+
+# الواجب الثاني
+
+Create method called " calculateTax " that takes price between 100 - 500 and return the required tax for this price ( tax = price * 15/100 )
+
+- It should exit if the price outside the given range
+
+# ( Bouns ) الواجب الثالث 
+
+Create method called " palindrome " which check if a string is palindrome or not , A Palindrome is a String which is equal to the reverse of 
+itself, e.g., "Bob" is a palindrome because of the reverse of "Bob" is also "Bob."
